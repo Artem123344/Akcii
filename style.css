@@ -1,0 +1,47 @@
+h1{
+    text-align:center;
+    color:mediumblue;
+    border:7px double darkorange;
+    padding:10px;
+}
+
+body{
+   background-color:rgb(194, 194, 194); 
+   font-family: sans-serif;
+   
+}
+
+header{
+    border-bottom:6px dashed black;
+}
+
+nav a{
+    text-decoration:none;
+    border:3px solid darkcyan;
+    border-radius:30px;
+    background-color:lightseagreen;
+    color:black;
+    padding:7px;
+    margin:20px;
+    font-size:20px;
+}
+
+nav{
+    text-align: center;
+    margin-top:50px;
+    margin-bottom:70px;
+}
+
+p{
+    border-bottom:2px double black;
+    padding:10px;
+    color:red;
+}
+
+img{
+    width:200px;
+    height:250px;
+    margin:30px;
+    border:8px dashed darkgreen;
+}
+
